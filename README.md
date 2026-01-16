@@ -132,8 +132,8 @@ I focus on **building real systems**, not just models — from **ML pipelines** 
 ## 🤝 Let’s Connect
 
 - 🔗 **GitHub:** https://github.com/sanjaykumar-nb  
-- 💼 **LinkedIn:** *(Add your LinkedIn here)*  
-- 📧 **Email:** *(Add professional email)*  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/nb-sanjay-kumar/  
+- 📧 **Email:** nbsanjay3664@gmail.com  
 
 ---
 
