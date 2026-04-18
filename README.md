@@ -32,7 +32,7 @@ I focus on **building real systems**, not just models — from **ML pipelines** 
 
 ## 🚀 Featured Projects (Showcase)
 
-### 🔥 **V-OBLIVION / V-Inference**
+### 🔥 **V-OBLIVION / V-Inference (An AirBNB for GPU's)**
 > **Decentralized AI Inference & ML Training Platform**
 
 - ZK-verified AI inference using **ZKML**
