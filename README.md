@@ -42,7 +42,7 @@ I focus on **building real systems**, not just models — from **ML pipelines** 
 - IPFS-based storage (Pinata)
 
 **Tech:** `Next.js` `FastAPI` `Python` `ZKML` `Blockchain` `IPFS`
-
+ https://github.com/sanjaykumar-nb/V-Inference
 ---
 
 ### 🧠 **Advanced RAG Research Assistant**
@@ -54,7 +54,7 @@ I focus on **building real systems**, not just models — from **ML pipelines** 
 - Optimized for low-latency document Q&A
 
 **Tech:** `LangChain` `LLMs` `Vector DBs` `Streamlit`
-
+https://github.com/sanjaykumar-nb/Research-RAG
 ---
 
 ### 🐾 **Animal Image Classifier**
