@@ -32,20 +32,6 @@ I focus on **building real systems**, not just models — from **ML pipelines** 
 
 ## 🚀 Featured Projects (Showcase)
 
-### 🔥 **V-OBLIVION / V-Inference (An AirBNB for GPU's)**
-> **Decentralized AI Inference & ML Training Platform**
-
-- ZK-verified AI inference using **ZKML**
-- Differential Privacy (ε = 1.0)
-- Decentralized Python workers with staking
-- Blockchain-anchored execution on **Shardeum**
-- IPFS-based storage (Pinata)
-
-**Tech:** `Next.js` `FastAPI` `Python` `ZKML` `Blockchain` `IPFS`
-<br>
-- https://github.com/sanjaykumar-nb/V-Inference
----
-
 ### 🧠 **Advanced RAG Research Assistant**
 > High-performance Retrieval-Augmented Generation system
 
