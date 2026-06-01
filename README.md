@@ -65,7 +65,7 @@ I focus on **building real systems**, not just models — from **ML pipelines** 
 - Probability distributions
 - Data-driven experimentation
 
-**Tech:** `Python` `NumPy` `SciPy` `Statistics`
+**Tech:** `Python` `NumPy`
 
 ---
 
