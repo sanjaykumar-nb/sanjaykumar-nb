@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **N B Sanjay Kumar**
+# 👋 Hi, I'm **SANJAYKUMAR N B**
 ### 🚀 AI & Data Science Engineer | Builder | Research-Driven Thinker
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer;Machine+Learning+%7C+GenAI+%7C+Systems;Hackathon+Builder+%7C+Open+Source+Learner;Always+Building+%26+Exploring" />
@@ -12,8 +12,7 @@
 ## 🧠 About Me
 
 I’m an **engineering student specializing in Artificial Intelligence & Data Science**, driven by curiosity and hands-on problem solving.  
-I focus on **building real systems**, not just models — from **ML pipelines** to **AI platforms**, **RAG systems**, and **decentralized inference networks**.
-
+I focus on **building real systems**, not just models — from **ML pipelines** to **AI platforms** and **RAG systems**.
 🔹 Strong foundation in **mathematics, statistics, and algorithms**  
 🔹 Experienced in **AI research, ML engineering, and system design**  
 🔹 Active **hackathon participant & project builder**
